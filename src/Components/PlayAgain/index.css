@@ -1,0 +1,13 @@
+.game-done .message {
+  font-size: 250%;
+  color: #64d86b;
+  font-weight: bold;
+  margin: 15px;
+  text-shadow: 0px 0px 8px #64d86b;
+}
+.btnPlayAgain {
+  padding: 10px;
+  font-weight: bold;
+  margin-top: 10px;
+  text-transform: capitalize;
+}

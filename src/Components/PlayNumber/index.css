@@ -1,0 +1,19 @@
+.numberDisplay {
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background: rgba(21, 21, 23, 0.4);
+}
+
+.number {
+  background-color: #eee;
+  border: thin solid #ddd;
+  height: 60px;
+  width: 60px;
+  margin: 5px;
+  font-size: 25px;
+  border-radius: 50%;
+  cursor: pointer;
+}

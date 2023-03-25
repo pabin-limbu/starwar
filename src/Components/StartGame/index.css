@@ -1,0 +1,15 @@
+.start-game-container {
+}
+.start-game-container > p {
+  color: white;
+  font-size: 18px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.btn-startgame{
+    padding: 10px;
+    font-weight: bold;
+    margin-top: 10px;
+
+}
